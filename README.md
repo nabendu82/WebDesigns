@@ -9,3 +9,6 @@ A clean coded responsive mobile friendly HTML5 website for a Streaming service. 
 
 ### BlurLanding
 A responsive mobile friendly Langing Page with Blur effect.It uses grid system, media queries, transitions. This site is created using [this](https://www.youtube.com/watch?v=HZv8YHYUHTU&index=5&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) Traversy Media youtube video.
+
+### PhotographySite
+A responsive single page photography website using a mobile first approach with just HTML5 and CSS3. This site is created using [this](https://www.youtube.com/watch?v=XsEnj-1hG2o&index=6&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) Traversy Media youtube video.
