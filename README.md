@@ -6,3 +6,6 @@ A clean coded responsive mobile friendly HTML5 website for a fictional web desig
 
 ### myTunes
 A clean coded responsive mobile friendly HTML5 website for a Streaming service. It is modeled after the iTunes website as far as layout and content. It  use HTML5, CSS3 and a bit of jQuery. This site is created using [this](https://www.youtube.com/watch?v=GJXXf3_dcng&t=177s) Traversy Media youtube video.
+
+### BlurLanding
+A responsive mobile friendly Langing Page with Blur effect.It uses grid system, media queries, transitions. This site is created using [this](https://www.youtube.com/watch?v=HZv8YHYUHTU&index=5&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) Traversy Media youtube video.
