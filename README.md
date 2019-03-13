@@ -12,3 +12,6 @@ A responsive mobile friendly Langing Page with Blur effect.It uses grid system, 
 
 ### PhotographySite
 A responsive single page photography website using a mobile first approach with just HTML5 and CSS3. This site is created using [this](https://www.youtube.com/watch?v=XsEnj-1hG2o&index=6&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) Traversy Media youtube video.
+
+### FullscreenLanding
+A small simple Langing Page with just HTML5 and CSS3. We  use a little bit of flexbox styling. This site is created using [this](https://www.youtube.com/watch?v=hVdTQWASliE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=9) Traversy Media youtube video.
