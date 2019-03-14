@@ -24,3 +24,6 @@ An implementation of a parallax website with fixed scrolling using HTML and CSS.
 
 ### VideoBackground Site
 A landing page with a full screen video background using HTML and CSS. This site is created using [this](https://www.youtube.com/watch?v=Xy3GlrddZFI&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=33) Traversy Media youtube video.
+
+### CSS Grid Responsive Site
+A "mobile first" single page website layout using the CSS Grid. We are using modern techniques including relative em units, media queries and even a little flex. This site is created using [this](https://www.youtube.com/watch?v=M3qBpPw77qo&index=35&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) Traversy Media youtube video.
