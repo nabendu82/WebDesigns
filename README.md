@@ -20,4 +20,7 @@ A small simple Langing Page with just HTML5 and CSS3. We  use a little bit of fl
 A clone of Pluralsight login page with HTML5 and CSS3. We  use a little bit of flexbox styling. We use Flexbox for styling and media queries for responsiveness. This site is created using [this](https://www.youtube.com/watch?v=wIx1O5Y5EB4&index=10&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) Traversy Media youtube video.
 
 ### Parallax Site
-An implementation of a parallax website with fixed scrolling using HTML and CSS. It so that we can scroll and the images will stay in place. . This site is created using [this](https://www.youtube.com/watch?v=JttTcnidSdQ&index=11&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) Traversy Media youtube video.
+An implementation of a parallax website with fixed scrolling using HTML and CSS. It so that we can scroll and the images will stay in place. This site is created using [this](https://www.youtube.com/watch?v=JttTcnidSdQ&index=11&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) Traversy Media youtube video.
+
+### VideoBackground Site
+A landing page with a full screen video background using HTML and CSS. This site is created using [this](https://www.youtube.com/watch?v=Xy3GlrddZFI&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=33) Traversy Media youtube video.
