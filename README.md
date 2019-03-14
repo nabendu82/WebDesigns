@@ -15,3 +15,6 @@ A responsive single page photography website using a mobile first approach with 
 
 ### FullscreenLanding
 A small simple Langing Page with just HTML5 and CSS3. We  use a little bit of flexbox styling. This site is created using [this](https://www.youtube.com/watch?v=hVdTQWASliE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=9) Traversy Media youtube video.
+
+### Pluralsight Login
+A clone of Pluralsight login page with HTML5 and CSS3. We  use a little bit of flexbox styling. We use Flexbox for styling and media queries for responsiveness. This site is created using [this](https://www.youtube.com/watch?v=wIx1O5Y5EB4&index=10&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) Traversy Media youtube video.
