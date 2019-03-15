@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+    line-height: 1.5;
+  }
+
+.menu__block{
+    width: 100%;
+    height: 3em;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.title__text {
+    margin-left: 3px;
+    color: black;
+}
+
+.card-title{
+    color: black;
+}
+
+img {
+    width: 150px;
+    height: auto;
+}
+
+.gallery__flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card{
+    background: lightgray;
+    padding: 5px;
+    width: 300px;
+    height: 200px;
+    margin: 10px 10px;
+    color: white;
+    text-align: center;
+}
+
+@media all and (max-width: 500px) {
+    .gallery__flex {
+      /* On small screens, we are no longer using row direction but column */
+      flex-direction: column;
+    }
+  }
