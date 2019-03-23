@@ -30,3 +30,6 @@ A "mobile first" single page website layout using the CSS Grid. We are using mod
 
 ### Video Form
 A single line form created with the learning from Wes Bos flexbox course. This link is [this](https://courses.wesbos.com/account/access/5ae5513242c2397eec320e27/view/195971710).
+
+### Album Layout
+An album layout created using CSS grid. This project is created using [this](https://courses.wesbos.com/account/access/5ae5513242c2397eec320e27/view/195971710) unit from Wes Bos CSS Grid course.
