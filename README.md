@@ -33,3 +33,6 @@ A single line form created with the learning from Wes Bos flexbox course. This l
 
 ### Album Layout
 An album layout created using CSS grid. This project is created using [this](https://courses.wesbos.com/account/access/5ae5513242c2397eec320e27/view/195971710) unit from Wes Bos CSS Grid course.
+
+### Masonary Image Gallery
+An Masonary Image Gallery created using CSS grid. This project is created using [this](https://courses.wesbos.com/account/access/5aefd10bf8bd797afd2669c7/view/249560994) unit from Wes Bos CSS Grid course.

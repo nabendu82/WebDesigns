@@ -31,17 +31,22 @@ body {
 img {
     width: 250px;
     height: 120px;
+    object-fit: cover;
+
 }
 
 .gallery__flex {
-    display: flex;
+    /* display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: center; */
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap:5px;
 }
 
 .card{
     background: lightgray;
-    padding: 5px;
+    padding: 10px;
     width: 300px;
     height: 200px;
     margin: 10px 10px;
@@ -49,9 +54,8 @@ img {
     text-align: center;
 }
 
-@media all and (max-width: 500px) {
+/* @media all and (max-width: 500px) {
     .gallery__flex {
-      /* On small screens, we are no longer using row direction but column */
-      flex-direction: column;
+        flex-direction: column;
     }
-  }
+  } */
