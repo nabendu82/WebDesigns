@@ -42,3 +42,6 @@ An Conference website created using pure CSS. This project is created using [thi
 
 ### Codepen Clone
 A clone of Codepen created using CSS grid. This project is created using [this](https://courses.wesbos.com/account/access/5aefd10bf8bd797afd2669c7/view/249565560) unit from Wes Bos CSS Grid course.
+
+### Restaurant Website
+A Responsive Restaurant created using CSS grid. This project is created using [this](https://courses.wesbos.com/account/access/5aefd10bf8bd797afd2669c7/view/249566909) unit from Wes Bos CSS Grid course.
