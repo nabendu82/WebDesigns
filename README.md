@@ -36,3 +36,6 @@ An album layout created using CSS grid. This project is created using [this](htt
 
 ### Masonary Image Gallery
 An Masonary Image Gallery created using CSS grid. This project is created using [this](https://courses.wesbos.com/account/access/5aefd10bf8bd797afd2669c7/view/249560994) unit from Wes Bos CSS Grid course.
+
+### Styled Conferences
+An Conference website created using pure CSS. This project is created using [this](https://learn.shayhowe.com/html-css/) Shay Howe course.
